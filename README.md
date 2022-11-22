@@ -9,6 +9,12 @@ This repository contains our course project `Generative Pretraining from pixels`
 # GNR_638_FinalProject
 Implemented a ML Research paper for improving the efficiency of SRGAN 
 
-##Bibliography:
--------------------
-Original 
+## Bibliography:
+
+Original : 
+Resources for SRGAN 
+1. hds
+2. hasdf
+3. kashdf
+
+
