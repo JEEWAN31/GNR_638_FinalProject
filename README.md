@@ -9,9 +9,11 @@ This repository contains our course project `Neural_Super_Sampling` of `GNR638` 
 # GNR_638_FinalProject
 Implemented a ML Research paper for improving the efficiency of SRGAN  
 
-Resources:
+##Resources:
 Link of Dataset Used:
+
 Link of PPT:
+
 Link of Video:
 
 ## Bibliography:
