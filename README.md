@@ -1,20 +1,21 @@
-This repository contains our course project `Generative Pretraining from pixels` of `GNR638` course `Machine Learning for Remote Sensing- Part 2`  done under prof. `Biplab Banerjee` in our Autumn 2022 at IIT Bombay. 
+This repository contains our course project `Neural_Super_Sampling` of `GNR638` course `Machine Learning for Remote Sensing- Part 2`  done under prof. `Biplab Banerjee` in our Autumn 2022 at IIT Bombay. 
 
 ## Team Mates
 
 * Jeewan Chandra Joshi (200020063)
-* Ajinkya Bobde ()
-* Tanya ()
+* Ajinkya Bobde (200040014)
+* Tanya (20010015)
 
 # GNR_638_FinalProject
-Implemented a ML Research paper for improving the efficiency of SRGAN 
+Implemented a ML Research paper for improving the efficiency of SRGAN  
 
 ## Bibliography:
 
-Original : 
-Resources for SRGAN 
-1. hds
-2. hasdf
-3. kashdf
+Original papers:
+SRGAN :[ Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network ] (https://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf)
+###Bibliography
+1. https://www.youtube.com/watch?v=nbRkLE2fiVI
+2. https://www.youtube.com/watch?v=1HqjPqNglPc&t=492s
+3. https://www.mdpi.com/2072-4292/12/8/1263
 
 
