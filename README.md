@@ -9,6 +9,11 @@ This repository contains our course project `Neural_Super_Sampling` of `GNR638` 
 # GNR_638_FinalProject
 Implemented a ML Research paper for improving the efficiency of SRGAN  
 
+Resources:
+Link of Dataset Used:
+Link of PPT:
+Link of Video:
+
 ## Bibliography:
 
 Original papers:
@@ -20,5 +25,7 @@ ESRGAN : [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](htt
 1. https://www.youtube.com/watch?v=nbRkLE2fiVI
 2. https://www.youtube.com/watch?v=1HqjPqNglPc&t=492s
 3. https://www.mdpi.com/2072-4292/12/8/1263
+4. https://github.com/fenghansen/ESRGAN-Keras
+5. https://github.com/sudoRicheek/Image-Enhancer
 
 
