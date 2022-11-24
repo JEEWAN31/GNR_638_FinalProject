@@ -4,7 +4,7 @@ This repository contains our course project `Neural_Super_Sampling` of `GNR638` 
 
 * Jeewan Chandra Joshi (200020063)
 * Ajinkya Bobde (200040014)
-* Tanya (20010015)
+* Tanya Gupta (20010015)
 
 # GNR_638_FinalProject
 Implemented a ML Research paper for improving the efficiency of SRGAN  
