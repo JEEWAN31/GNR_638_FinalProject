@@ -12,7 +12,7 @@ Implemented a ML Research paper for improving the efficiency of SRGAN
 ##Resources:
 Link of Dataset Used:
 
-Link of PPT:
+Link of PPT: [LINK](https://docs.google.com/presentation/d/1exqaWnUl85NDd8ykS5atLwKjNKVvFJLb/edit?usp=sharing&ouid=113817239763706000380&rtpof=true&sd=true)
 
 Link of Video:
 
