@@ -28,7 +28,7 @@ Link of PPT: [LINK](https://docs.google.com/presentation/d/1exqaWnUl85NDd8ykS5at
 
 Medium Article Link : [LINK](https://medium.com/@jeewanjj02/esrgan-srgan-image-resolution-using-deep-learning-b013f27254a0)
 
-Link of Video:
+Link of Video: [LINK](https://drive.google.com/file/d/13KisbUx0cYLKUZu2MWQl78lzF1x9moc7/view?usp=sharing)
 
 ## Bibliography:
 
