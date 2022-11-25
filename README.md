@@ -1,3 +1,5 @@
+# About The Project
+
 This repository contains our course project `Neural_Super_Sampling` of `GNR638` course `Machine Learning for Remote Sensing- Part 2`  done under prof. `Biplab Banerjee` in our Autumn 2022 at IIT Bombay. 
 
 ## Team Mates
