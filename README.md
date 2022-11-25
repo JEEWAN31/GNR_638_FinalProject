@@ -7,13 +7,17 @@ This repository contains our course project `Neural_Super_Sampling` of `GNR638` 
 * Tanisha Gupta (200100155)
 
 # GNR_638_FinalProject
-Implemented a ML Research paper for improving the efficiency of SRGAN  
+SRGAN is a generative adversarial model for super-resolution. Despite the breakthroughs in accuracy and speed of single image super-resolution using faster and deeper convolutional neural networks, one central problem remains largely unsolved: how do we recover the finer texture details when we super-resolve at large upscaling factors?
+
+
 
 ## Resources:
 
 Link of Dataset Used: [LINK](https://drive.google.com/drive/folders/1o6Do6HiqyFx6BxUQVzsAGp7AJhwGMndf?usp=sharing)
 
 Link of PPT: [LINK](https://docs.google.com/presentation/d/1exqaWnUl85NDd8ykS5atLwKjNKVvFJLb/edit?usp=sharing&ouid=113817239763706000380&rtpof=true&sd=true)
+
+Medium Article Link : [LINK](https://medium.com/@jeewanjj02/esrgan-srgan-image-resolution-using-deep-learning-b013f27254a0)
 
 Link of Video:
 
