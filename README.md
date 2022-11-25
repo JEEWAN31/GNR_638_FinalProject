@@ -12,7 +12,7 @@ SRGAN is a generative adversarial model for super-resolution. Despite the breakt
 ![](https://github.com/JEEWAN31/GNR_638_FinalProject/blob/main/Images/Screenshot%202022-11-24%20at%201.42.05%20PM.png)
 
 
-###ESRGAN
+### ESRGAN
 
 The main architecture of the ESRGAN is the same as the SRGAN with some modifications  ESRGAN follows the baseline ResNet-style architecture of SRGAN but replaces the residual block with the RRDB block. The RRDB block is inspired by the DenseNet architecture and connects all layers within the residual block directly with each other(see the right figure). We can implement the RRDB block similar to DenseNet by feeding the concatenated array of the output of every previous layer to the next convolution. The following code implements the RRDB block.
 
