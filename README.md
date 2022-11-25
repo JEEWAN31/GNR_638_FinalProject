@@ -9,7 +9,13 @@ This repository contains our course project `Neural_Super_Sampling` of `GNR638` 
 # GNR_638_FinalProject
 SRGAN is a generative adversarial model for super-resolution. Despite the breakthroughs in accuracy and speed of single image super-resolution using faster and deeper convolutional neural networks, one central problem remains largely unsolved: how do we recover the finer texture details when we super-resolve at large upscaling factors?
 
+![](https://github.com/JEEWAN31/GNR_638_FinalProject/blob/main/Images/Screenshot%202022-11-24%20at%201.42.05%20PM.png)
+
+###ESRGAN
+The main architecture of the ESRGAN is the same as the SRGAN with some modifications. ESRGAN has a Residual in Residual Dense Block(RRDB) which combines a multi-level residual network and dense connection without Batch Normalization.
+
 ![Comparing ESRGAN with Upscaling](https://github.com/JEEWAN31/GNR_638_FinalProject/blob/main/Images/Screenshot%202022-11-25%20at%201.45.23%20PM.png)
+![COmparing super resolutioni with all GAN models](https://github.com/JEEWAN31/GNR_638_FinalProject/blob/main/Images/Screenshot%202022-11-24%20at%201.43.22%20PM.png)
 
 ## Resources:
 
